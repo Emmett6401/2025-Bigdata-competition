@@ -3,6 +3,9 @@
 
 ## ppt 폴더에 있는 각팀에게 전달한 templet을 참고해서 
 ## 자신의 팀의 내용을 잘 추가 하기 합니다. 
+<img width="572" height="292" alt="image" src="https://github.com/user-attachments/assets/419dceaf-3d1b-4a8d-9ee2-9ff54180540c" />
+### 본인들 거는 잘 찾을 수 있겠지? 총 7개팀...
+
 ## 소개를 앞에 넣고 함께 찍은 사진이나 함께 일하고 있는 사진을 넣어서 
 
 ## 내용 
